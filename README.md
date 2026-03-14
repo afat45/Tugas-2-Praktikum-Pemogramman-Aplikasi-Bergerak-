@@ -1,4 +1,3 @@
-```markdown
 # 🐉 Long Xuan: Barongsai Visit & Performance Management System
 
 **Long Xuan** merupakan aplikasi manajemen reservasi pertunjukan Barongsai berbasis mobile yang dikembangkan menggunakan **Flutter** dan **Supabase**. Aplikasi ini dirancang untuk menggantikan sistem pencatatan manual menjadi sistem digital yang terpusat, aman, dan efisien.
