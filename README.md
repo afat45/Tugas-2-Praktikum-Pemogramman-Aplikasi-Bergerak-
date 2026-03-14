@@ -19,12 +19,12 @@ Aplikasi ini mengadopsi standar industri dengan pola arsitektur **MVC (Model-Vie
 
 | 1. Updated Home Screen | 2. Dark Mode Experience |
 |:---:|:---:|
-| ![Home Screen](ss\Screenshot 2026-03-14 104105.png) | ![Dark Mode](ss\Screenshot 2026-03-14 104114.png) |
+| ![Home Screen](ss/Home_Screen.png) | ![Dark Mode](ss/Dark_Mode.png) |
 | *Tampilan utama dengan Sliver Parallax & List Data* | *Antarmuka elegan dengan proteksi mata* |
 
 | 3. Form Input System | 4. Data Persistence Result |
 |:---:|:---:|
-| ![Form Input](ss\Screenshot 2026-03-14 104207.png) | ![Read Data](ss\Screenshot 2026-03-14 104222.png) |
+| ![Form Input](ss/Form_Input.png) | ![Read Data](ss/Read_Data.png) |
 | *Validasi input & Integration DatePicker* | *Data berhasil tersinkronisasi dari Supabase* |
 
 ---
