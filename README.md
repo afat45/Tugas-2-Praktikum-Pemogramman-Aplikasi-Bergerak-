@@ -116,5 +116,3 @@ Gunakan perintah `flutter run`.
 ---
 
 © 2026 Dharma Pala Candra - Sistem Informasi 2024 B.
-
-```
