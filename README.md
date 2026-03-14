@@ -27,8 +27,6 @@ Aplikasi ini mengadopsi standar industri dengan pola arsitektur **MVC (Model-Vie
 | ![Form Input](ss\Screenshot 2026-03-14 104207.png) | ![Read Data](ss\Screenshot 2026-03-14 104222.png) |
 | *Validasi input & Integration DatePicker* | *Data berhasil tersinkronisasi dari Supabase* |
 
-> **Catatan:** Pastikan Anda menyimpan file gambar hasil screenshot di dalam folder `screenshot/` di repository GitHub Anda agar gambar muncul di halaman ini.
-
 ---
 
 ## 🏛️ Arsitektur Aplikasi: Pola Design MVC
